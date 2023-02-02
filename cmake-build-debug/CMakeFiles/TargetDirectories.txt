@@ -1,0 +1,3 @@
+C:/Users/gorba/CLionProjects/pppp/cmake-build-debug/CMakeFiles/pppp.dir
+C:/Users/gorba/CLionProjects/pppp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gorba/CLionProjects/pppp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
